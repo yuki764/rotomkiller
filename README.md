@@ -22,7 +22,7 @@ Rotom: アーボ
 * ボルトロス
 * ボクレー
 You: イーブイ
-error: This is not a name of Pokemon or in a candidate list.
+error: This isn't a name of Pokemon and in a candidates list.
 You: ボーマンダ
 Rotom: ダークライ
 * イシツブテ

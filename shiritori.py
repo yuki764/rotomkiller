@@ -83,10 +83,10 @@ while(True):
                     used_pokemon[choice] = True
                     break
                 else:
-                    print('error: This is not a name of Pokemon or in a candidate list.')
+                    print('error: This isn\'t a name of Pokemon and in a candidates list.')
 
     elif(query == 'exit' or query == 'surrender'):
         print('You win!')
         break
     else:
-        print('error: This is not a name of Pokemon.')
+        print('error: This isn\'t a name of Pokemon.')
