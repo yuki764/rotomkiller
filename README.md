@@ -12,3 +12,29 @@ Python 3がインストールされた環境でご使用ください。
 ```bash
 python3 shiritori.py [--auto|-a]
 ```
+
+## 実行例
+```
+$ python3 shiritori.py
+Rotom: アーボ
+* ボスゴドラ
+* ボーマンダ
+* ボルトロス
+* ボクレー
+You: イーブイ
+error: This is not a name of Pokemon or in a candidate list.
+You: ボーマンダ
+Rotom: ダークライ
+* イシツブテ
+* イワーク
+* イーブイ
+* イトマル
+* イノムー
+* イルミーゼ
+* イシズマイ
+* イワパレス
+* イベルタル
+* イワンコ
+You: surrender
+You lose...
+```
